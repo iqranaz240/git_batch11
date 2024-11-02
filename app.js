@@ -1,12 +1,6 @@
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBAyEBLfZaQfqr6r8jd9LShmWXOOb0K6Q4",
-  authDomain: "webapp-b10.firebaseapp.com",
-  databaseURL: "https://webapp-b10-default-rtdb.firebaseio.com",
-  projectId: "webapp-b10",
-  storageBucket: "webapp-b10.appspot.com",
-  messagingSenderId: "64843690643",
-  appId: "1:64843690643:web:e9768ba6e930b18c8e9366"
+  //use your configurations
 };
 
 // Initialize Firebase
